@@ -1,2 +1,3 @@
 Hola como estas,
 modificado para que le hagan el rebase
+ahora hacer el git add y git mer
